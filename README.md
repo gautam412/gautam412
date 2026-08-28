@@ -102,87 +102,79 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">⭐ Featured Projects</h2>
 
 <p align="center">
-
-  <!-- 🚨 Smart Disaster Management System -->
-
   <a href="https://github.com/udaysharmadev/Smart-Disaster-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Smart-Disaster-Management-System&theme=tokyonight&hide_border=true" />
+    🚨 <b>Smart Disaster Management System</b>
   </a>
-
-  <!-- 🤖 IoT Robotic Car -->
-
-  <a href="https://github.com/udaysharmadev/IoT-Robotic-Car">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=IoT-Robotic-Car&theme=tokyonight&hide_border=true" />
-  </a>
-
 </p>
 
 <p align="center">
-
-  <!-- 🌱 Smart Irrigation System -->
-
-  <a href="https://github.com/udaysharmadev/Smart-Irrigation-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Smart-Irrigation-System&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <!-- 🏠 Smart Home Dashboard -->
-
-  <a href="https://github.com/udaysharmadev/Smart-Home-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Smart-Home-Dashboard&theme=tokyonight&hide_border=true" />
-  </a>
-
+  A web-based disaster management platform designed to provide emergency alerts,
+  incident reporting, emergency contacts, shelters and real-time information.
 </p>
 
 <p align="center">
-
-  <!-- 📊 Attendance System -->
-
-  <a href="https://github.com/udaysharmadev/Attendance-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Attendance-System&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <!-- 🏫 College Information System -->
-
-  <a href="https://github.com/udaysharmadev/College-Information-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=College-Information-System&theme=tokyonight&hide_border=true" />
-  </a>
-
+  <b>Tech:</b> HTML • CSS • JavaScript • Node.js • Express • MySQL • Leaflet
 </p>
 
 ---
 
-### 📂 All Projects
+<p align="center">
+  <a href="https://github.com/udaysharmadev/IoT-Robotic-Car">
+    🤖 <b>IoT Robotic Car</b>
+  </a>
+</p>
+
+<p align="center">
+  A remotely controlled robotic car built using microcontrollers and IoT technologies.
+</p>
+
+<p align="center">
+  <b>Tech:</b> ESP8266 • ESP32 • Arduino • Blynk • L298N
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/udaysharmadev/Smart-Irrigation-System">
+    🌱 <b>Smart Irrigation System</b>
+  </a>
+</p>
+
+<p align="center">
+  An automated irrigation project designed to monitor soil conditions
+  and control water supply efficiently.
+</p>
+
+<p align="center">
+  <b>Tech:</b> Arduino • Soil Moisture Sensor • Water Pump • IoT
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/udaysharmadev/College-Information-System">
+    🏫 <b>College Information System</b>
+  </a>
+</p>
+
+<p align="center">
+  A responsive web application for managing and presenting college-related information.
+</p>
+
+<p align="center">
+  <b>Tech:</b> HTML • CSS • JavaScript • PHP • MySQL
+</p>
+
+---
 
 <p align="center">
   <a href="https://github.com/udaysharmadev?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+    🔗 <b>View All Projects →</b>
   </a>
 </p>
-
----
-
-### ➕ Add a New Project
-
-Future me project add karne ke liye **sirf is format ko copy** karo:
-
-```html
-<a href="https://github.com/udaysharmadev/REPOSITORY-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=REPOSITORY-NAME&theme=tokyonight&hide_border=true" />
-</a>
-```
-
-Example:
-
-```html
-<a href="https://github.com/udaysharmadev/my-new-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=my-new-project&theme=tokyonight&hide_border=true" />
-</a>
-```
-
-> 💡 **Note:** `REPOSITORY-NAME` ko GitHub repository ke **exact name** se replace karna hai. `<a href="">` wala URL aur `repo=` wala naam same repository ka hona chahiye.
 
 
 # 🤝 Connect With Me
