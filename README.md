@@ -104,7 +104,7 @@
 
 # ⭐ Featured Projects
 
-### 🚨 Smart Disaster Management System
+### 🚨 [Smart Disaster Management System](https://github.com/udaysharmadev/Smart-Disaster-Management-System)
 
 > A web-based disaster management platform designed to provide emergency alerts, incident reporting, emergency contacts, shelters and real-time information.
 
@@ -112,7 +112,7 @@
 
 ---
 
-### 🤖 IoT Robotic Car
+### 🤖 [IoT Robotic Car](https://github.com/udaysharmadev/IoT-Robotic-Car)
 
 > A remotely controlled robotic car built using microcontrollers and IoT technologies.
 
@@ -120,7 +120,7 @@
 
 ---
 
-### 🌱 Smart Irrigation System
+### 🌱 [Smart Irrigation System](https://github.com/udaysharmadev/Smart-Irrigation-System)
 
 > An automated irrigation project designed to monitor soil conditions and control water supply efficiently.
 
@@ -128,33 +128,12 @@
 
 ---
 
-### 🏫 College Information System
+### 🏫 [College Information System](https://github.com/udaysharmadev/College-Information-System)
 
 > A responsive web application for managing and presenting college-related information.
 
 **Tech:** HTML • CSS • JavaScript • PHP • MySQL
 
----
-
-# 💻 My Development Journey
-
-```text
-HTML / CSS
-    ↓
-JavaScript
-    ↓
-Frontend Development
-    ↓
-React.js
-    ↓
-Node.js + Express
-    ↓
-Databases & REST APIs
-    ↓
-Full Stack Development 🚀
-```
-
----
 
 # 📚 Currently Learning
 
