@@ -102,50 +102,88 @@
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 Featured Projects
 
-### 🚨 [Smart Disaster Management System](https://github.com/udaysharmadev/Smart-Disaster-Management-System)
+<p align="center">
 
-> A web-based disaster management platform designed to provide emergency alerts, incident reporting, emergency contacts, shelters and real-time information.
+  <!-- 🚨 Smart Disaster Management System -->
 
-**Tech:** HTML • CSS • JavaScript • Node.js • Express • MySQL • Leaflet
+  <a href="https://github.com/udaysharmadev/Smart-Disaster-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Smart-Disaster-Management-System&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- 🤖 IoT Robotic Car -->
+
+  <a href="https://github.com/udaysharmadev/IoT-Robotic-Car">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=IoT-Robotic-Car&theme=tokyonight&hide_border=true" />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <!-- 🌱 Smart Irrigation System -->
+
+  <a href="https://github.com/udaysharmadev/Smart-Irrigation-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Smart-Irrigation-System&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- 🏠 Smart Home Dashboard -->
+
+  <a href="https://github.com/udaysharmadev/Smart-Home-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Smart-Home-Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <!-- 📊 Attendance System -->
+
+  <a href="https://github.com/udaysharmadev/Attendance-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Attendance-System&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- 🏫 College Information System -->
+
+  <a href="https://github.com/udaysharmadev/College-Information-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=College-Information-System&theme=tokyonight&hide_border=true" />
+  </a>
+
+</p>
 
 ---
 
-### 🤖 [IoT Robotic Car](https://github.com/udaysharmadev/IoT-Robotic-Car)
+### 📂 All Projects
 
-> A remotely controlled robotic car built using microcontrollers and IoT technologies.
-
-**Tech:** ESP8266 • ESP32 • Arduino • Blynk • L298N
-
----
-
-### 🌱 [Smart Irrigation System](https://github.com/udaysharmadev/Smart-Irrigation-System)
-
-> An automated irrigation project designed to monitor soil conditions and control water supply efficiently.
-
-**Tech:** Arduino • Soil Moisture Sensor • Water Pump • IoT
+<p align="center">
+  <a href="https://github.com/udaysharmadev?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🏫 [College Information System](https://github.com/udaysharmadev/College-Information-System)
+### ➕ Add a New Project
 
-> A responsive web application for managing and presenting college-related information.
+Future me project add karne ke liye **sirf is format ko copy** karo:
 
-**Tech:** HTML • CSS • JavaScript • PHP • MySQL
+```html
+<a href="https://github.com/udaysharmadev/REPOSITORY-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=REPOSITORY-NAME&theme=tokyonight&hide_border=true" />
+</a>
+```
 
+Example:
 
-# 📚 Currently Learning
+```html
+<a href="https://github.com/udaysharmadev/my-new-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=my-new-project&theme=tokyonight&hide_border=true" />
+</a>
+```
 
-* ⚛️ Advanced React.js
-* ▲ Next.js
-* 🟢 Node.js & Express
-* 🗄️ MongoDB & MySQL
-* 🔐 REST APIs & Authentication
-* ☁️ Deployment & Cloud Technologies
-* 🐳 Docker & DevOps
+> 💡 **Note:** `REPOSITORY-NAME` ko GitHub repository ke **exact name** se replace karna hai. `<a href="">` wala URL aur `repo=` wala naam same repository ka hona chahiye.
 
----
 
 # 🤝 Connect With Me
 
