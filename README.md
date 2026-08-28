@@ -1,27 +1,205 @@
-<h1 align="center">Hi 👋, I'm Gautam Bijalwan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm Gautam Bijalwan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam412&label=Profile%20views&color=0e75b6&style=flat" alt="gautam412" /> </p>
+### 💻 Full Stack Developer | Web Developer | CSE Diploma Graduate
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam412" alt="gautam412" /></a> </p>
-
-- 💬 Ask me about **Full Stack dev**
-
-- 📫 How to reach me **gautambijalwan8@gmail.com**
-
-- ⚡ Fun fact **I am web dev**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-bijalwan-3605b7418?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-bijalwan-3605b7418?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ga__ut__am_04?igsi=mtrmcw04dxplm3q4dw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ga__ut__am_04?igsi=mtrmcw04dxplm3q4dw==" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/udaysharmadev?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautam412&show_icons=true&locale=en&layout=compact" alt="gautam412" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam412&show_icons=true&locale=en" alt="gautam412" /></p>
+* 🎓 Diploma in **Computer Science & Engineering**
+* 💻 Passionate about **Full Stack Web Development**
+* 🌱 Currently improving my skills in **React, Node.js & Modern Web Technologies**
+* 🔥 Interested in building **real-world projects and useful applications**
+* 🧠 Always learning and exploring new technologies
+* ⚡ Fun fact: **I love turning ideas into working websites & applications**
+* 📍 India 🇮🇳
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam412&" alt="gautam412" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,javascript" />
+</p>
+
+### 🌐 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,nginx,arduino,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=udaysharmadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/udaysharmadev/udaysharmadev/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+# 📅 Commit Graph
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Commit Statistics" />
+</p>
+
+---
+
+# 📦 GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/github/repos/udaysharmadev?style=for-the-badge&label=Total%20Repos" />
+  <img src="https://img.shields.io/github/stars/udaysharmadev?style=for-the-badge&label=Stars%20Received" />
+  <img src="https://img.shields.io/github/followers/udaysharmadev?style=for-the-badge&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&style=for-the-badge&label=Profile%20Views" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### 🚨 Smart Disaster Management System
+
+> A web-based disaster management platform designed to provide emergency alerts, incident reporting, emergency contacts, shelters and real-time information.
+
+**Tech:** HTML • CSS • JavaScript • Node.js • Express • MySQL • Leaflet
+
+---
+
+### 🤖 IoT Robotic Car
+
+> A remotely controlled robotic car built using microcontrollers and IoT technologies.
+
+**Tech:** ESP8266 • ESP32 • Arduino • Blynk • L298N
+
+---
+
+### 🌱 Smart Irrigation System
+
+> An automated irrigation project designed to monitor soil conditions and control water supply efficiently.
+
+**Tech:** Arduino • Soil Moisture Sensor • Water Pump • IoT
+
+---
+
+### 🏫 College Information System
+
+> A responsive web application for managing and presenting college-related information.
+
+**Tech:** HTML • CSS • JavaScript • PHP • MySQL
+
+---
+
+# 💻 My Development Journey
+
+```text
+HTML / CSS
+    ↓
+JavaScript
+    ↓
+Frontend Development
+    ↓
+React.js
+    ↓
+Node.js + Express
+    ↓
+Databases & REST APIs
+    ↓
+Full Stack Development 🚀
+```
+
+---
+
+# 📚 Currently Learning
+
+* ⚛️ Advanced React.js
+* ▲ Next.js
+* 🟢 Node.js & Express
+* 🗄️ MongoDB & MySQL
+* 🔐 REST APIs & Authentication
+* ☁️ Deployment & Cloud Technologies
+* 🐳 Docker & DevOps
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gautam-bijalwan-3605b7418/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ga__ut__am_04/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> gautambijalwan8@gmail.com
+</p>
+
+---
+
+# 💬 Ask Me About
+
+**Full Stack Development • Web Development • JavaScript • React • Node.js • PHP • MySQL • IoT Projects**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
+</p>
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+  <i>"Code. Build. Learn. Repeat. 🚀"</i>
+</p>
