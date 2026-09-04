@@ -122,9 +122,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/udaysharmadev/IoT-Robotic-Car">
-    🤖 <b>IoT Robotic Car</b>
-  </a>
+ ### 🤖 [IoT Robotic Car](https://github.com/gautam412/IoT-Robotic-Car)
+
+> An IoT-based smart robotic car controlled remotely using ESP32/ESP8266 and Blynk, featuring wireless control and motor control.
+
+**Tech:** Arduino • ESP32 • ESP8266 • Blynk • L298N • IoT • Robotics
 </p>
 
 <p align="center">
