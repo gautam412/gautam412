@@ -102,13 +102,13 @@
 
 ---
 
-<h2 align="center">⭐ Featured Projects</h2>
+## ⭐ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/udaysharmadev/Smart-Disaster-Management-System">
-    🚨 <b>Smart Disaster Management System</b>
-  </a>
-</p>
+### 🚨 [Smart Disaster Management System](https://github.com/gautam412/Smart-Disaster-Management-System)
+
+> A web-based disaster management platform designed to provide emergency alerts, incident reporting, emergency contacts, shelters and real-time information.
+
+**Tech:** HTML • CSS • JavaScript • Node.js • Express • MySQL • Leaflet
 
 <p align="center">
   A web-based disaster management platform designed to provide emergency alerts,
