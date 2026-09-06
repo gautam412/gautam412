@@ -137,12 +137,11 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/udaysharmadev/Smart-Irrigation-System">
-    🌱 <b>Smart Irrigation System</b>
-  </a>
-</p>
+### 💰 [Interest Calculator](https://github.com/gautam412/INTEREST-CALCULATOR-)
 
+> A simple C-based program for calculating interest based on user-provided values.
+
+**Tech:** C • C Programming
 <p align="center">
   An automated irrigation project designed to monitor soil conditions
   and control water supply efficiently.
