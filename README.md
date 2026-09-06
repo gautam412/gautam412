@@ -154,11 +154,11 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/udaysharmadev/College-Information-System">
-    🏫 <b>College Information System</b>
-  </a>
-</p>
+### 🔢 [Prime Number Checker](https://github.com/gautam412/prime-number)
+
+> A simple programming project that checks whether a given number is prime or not.
+
+**Tech:** C / C++ / Java / Python
 
 <p align="center">
   A responsive web application for managing and presenting college-related information.
