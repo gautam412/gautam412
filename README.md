@@ -175,7 +175,7 @@
 **Tech:** C • C Programming
 
 <p align="center">
-  <a href="https://github.com/udaysharmadev?tab=repositories">
+  <a href="https://github.com/gautam412?tab=repositories">
     🔗 <b>View All Projects →</b>
   </a>
 </p>
