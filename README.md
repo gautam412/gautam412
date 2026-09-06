@@ -168,6 +168,11 @@
 </p>
 
 ---
+### 🧮 [Simple Calculator](https://github.com/gautam412/SIMPLE-CALCULATOR)
+
+> A simple C-based calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication and division.
+
+**Tech:** C • C Programming
 
 <p align="center">
   <a href="https://github.com/udaysharmadev?tab=repositories">
