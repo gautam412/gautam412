@@ -62,7 +62,7 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=udaysharmadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gautam412dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
